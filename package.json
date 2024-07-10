@@ -1,15 +1,15 @@
 {
-  "name": "wifi-manager",
+  "name": "cross-os-wifi-manager",
  "version": "1.0.0",
   "description": "Cross-platform WiFi manager with methods to get nearby connections, get connected WiFi info, connect, update password, forget, and disconnect WiFi.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "wifi",
     "network",
-    "cross-platform",
+    "cross-os",
     "linux",
     "windows",
     "macos"
